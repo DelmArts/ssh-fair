@@ -2,3 +2,4 @@ pyDataverse
 pandas
 matplotlib
 rdflib
+tqdm
